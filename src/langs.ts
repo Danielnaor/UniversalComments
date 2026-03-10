@@ -74,6 +74,11 @@ const langs: any = {
         multiStart: '<!--',
         multiEnd: '-->'
     },
+    ignore: {
+        single: '#',
+        multiStart: '#',
+        multiEnd: '#'
+    },
     ini: {
         single: ';',
         multiStart: ';',

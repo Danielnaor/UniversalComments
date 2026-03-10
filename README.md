@@ -29,5 +29,6 @@ Universal Comments extension allows you to use same comment character in every m
 | CUDA C++     | JavaScript       | Objective-C   | Ruby       | XML              |
 | Dart         | JavaScript React | Objective-C++ | Rust       | XSL              |
 | F#           | JSON             | Perl, Perl6   | SCSS       | YAML             |
+| Gitignore    |                  |               |            |                  |
 
 </div>
